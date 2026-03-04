@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "U.F.O",
+  "base_artist": "春野",
+  "createdAt": "2026-03-04T05:06:40.836430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. U.F.O. Man",
+      "artist": "Kelis feat. John Ostby",
+      "has_synced": false,
+      "path": "select/01_Mr._U.F.O._Man_Kelis_feat._John_Ostby.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kelis Feat. John Ostby - Mr. U.F.O. Man",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/02_Kelis_Feat._John_Ostby_-_Mr._U.F.O._Man_Kelis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "U.F.O.",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/03_U.F.O._Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "U.F.O.",
+      "artist": "Photek",
+      "has_synced": false,
+      "path": "select/04_U.F.O._Photek.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "U.F.O.",
+      "artist": "Ivan Cattaneo",
+      "has_synced": false,
+      "path": "select/05_U.F.O._Ivan_Cattaneo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "U.F.O.",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/06_U.F.O._Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "U.F.O.",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/07_U.F.O._Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I´m Seeing U.F.O´s",
+      "artist": "Dee Dee Ramone feat. Joey Ramone",
+      "has_synced": true,
+      "path": "select/08_I_́m_Seeing_U.F.O_́s_Dee_Dee_Ramone_feat._Joey_Ramone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "U.f.o. Phenomena",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/09_U.f.o._Phenomena_Scooter.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Arriving U.F.O.",
+      "artist": "Yes",
+      "has_synced": false,
+      "path": "select/10_Arriving_U.F.O._Yes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "El U.F.O. Cayo",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/11_El_U.F.O._Cayo_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Saw Elvis In A U.F.O.",
+      "artist": "Ray Stevens",
+      "has_synced": false,
+      "path": "select/12_I_Saw_Elvis_In_A_U.F.O._Ray_Stevens.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Barker Of The U.F.O.",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/13_Barker_Of_The_U.F.O._Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Looking For A U.F.O.",
+      "artist": "Adrian Belew",
+      "has_synced": false,
+      "path": "select/14_Looking_For_A_U.F.O._Adrian_Belew.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "U.F.O.",
+      "artist": "Newton Faulkner",
+      "has_synced": false,
+      "path": "select/15_U.F.O._Newton_Faulkner.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cattle Mutilation, Strange U.F.O",
+      "artist": "My Dead Girlfriend",
+      "has_synced": false,
+      "path": "select/16_Cattle_Mutilation,_Strange_U.F.O_My_Dead_Girlfriend.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Well, Everybody's F***ing in a U.F.O.",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/17_Well,_Everybody's_F_ing_in_a_U.F.O._Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Well, Everybody's Fucking in A U.F.O.",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/18_Well,_Everybody's_Fucking_in_A_U.F.O._Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "U.F.O.",
+      "artist": "Jim Sullivan",
+      "has_synced": false,
+      "path": "select/19_U.F.O._Jim_Sullivan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "U.F.O",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_U.F.O_春野.txt"
+    }
+  ]
+}
